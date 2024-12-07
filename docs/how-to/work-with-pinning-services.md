@@ -47,7 +47,6 @@ Third-party pinning services allow you to purchase pinning capacity for importan
 - [Temporal](https://temporal.cloud/)
 - [Crust](https://crust.network/)
 - [Infura](https://infura.io/)
-- [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/)
 
 ::: callout 
 As of June 2023, [Filebase](https://filebase.com) and [Pinata](https://pinata.cloud/) support the [IPFS Pinning Service API endpoint](https://github.com/ipfs/pinning-services-api-spec).
